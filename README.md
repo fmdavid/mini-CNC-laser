@@ -6,7 +6,7 @@ En este proyecto transformamos el mini-CNC realizado anteriormente (https://gith
 
 En el siguiente enlace puede ver un vídeo explicativo del proyecto:
 
-* [Vídeo](https://youtu.be/Uyisg1a7rLg)
+* [Vídeo](https://youtu.be/z9OQ3X-VjJg)
 
 ## Contenido
 
